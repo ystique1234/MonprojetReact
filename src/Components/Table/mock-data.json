@@ -1,0 +1,31 @@
+[
+    {
+        "id":2,
+        "fullName":"Kevin",
+        "adress":"6 rue b",
+        "phoneNumber":"4562213",
+        "email":"key@yahoo.com"
+    },
+    {
+        "id":3,
+        "fullName":"bella",
+        "adress":"8 rue j",
+        "phoneNumber":"4662455",
+        "email":"be@yahoo.com" 
+    },
+    {
+        "id":4,
+        "fullName":"sandrine",
+        "adress":"8 chaussée",
+        "phoneNumber":"4755223",
+        "email":"be@yahoo.com" 
+    },
+    {
+        "id":5,
+        "fullName":"Keintha",
+        "adress":"78 chaussée",
+        "phoneNumber":"0234567",
+        "email":"kek@yahoo.com" 
+    }
+
+]
