@@ -1,10 +1,10 @@
 nav{
     
-    background: linear-gradient(45deg,rgb(236, 84, 84),rgb(201, 201, 249));
+    background: linear-gradient(45deg,rgb(18, 17, 17),rgb(216, 216, 220));
 }
 .liste{
     list-style-type: none;
-    background: linear-gradient(45deg,rgb(236, 84, 84),rgb(201, 201, 249));
+    background: linear-gradient(45deg,rgb(21, 21, 21),rgb(201, 201, 249));
     height: 100px;
     display: flex;
     justify-content: center;
@@ -12,6 +12,8 @@ nav{
     position: relative;
     margin: 0;
     padding: 0;
+    gap: 10px;
+    font-size: 30px;
 }
 .items{
     margin-right: 10px;
